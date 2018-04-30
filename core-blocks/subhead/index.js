@@ -72,7 +72,7 @@ export const settings = {
 					} );
 				} }
 				className={ className }
-				placeholder={ placeholder || __( 'Write subhead…' ) }
+				placeholder={ placeholder || __( 'Write subheading…' ) }
 			/>
 		);
 	},
