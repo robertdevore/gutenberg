@@ -93,7 +93,7 @@
 		"sass-loader": "6.0.7",
 		"sprintf-js": "1.1.1",
 		"style-loader": "0.20.3",
-		"tinymce": "4.7.2",
+		"tinymce": "5.9.0",
 		"webpack": "4.4.1",
 		"webpack-cli": "2.0.13",
 		"webpack-rtl-plugin": "github:yoavf/webpack-rtl-plugin#develop"
