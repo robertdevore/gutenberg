@@ -37,7 +37,7 @@
 		"lodash": "4.17.5",
 		"memize": "1.0.5",
 		"moment": "2.22.1",
-		"moment-timezone": "0.5.16",
+		"moment-timezone": "0.5.35",
 		"mousetrap": "1.6.1",
 		"prop-types": "15.5.10",
 		"querystringify": "1.0.0",
